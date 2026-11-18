@@ -4,7 +4,7 @@
 **NIM:** 251401142
 **Mata Kuliah:** Praktikum Pemrograman Web
 
-Kuis praktikum: aplikasi To-Do List dengan React.js (Vite). Hanya bagian frontend, pakai data dummy dan React State, belum terhubung ke REST API.
+Kuis praktikum: aplikasi To-Do List dengan React.js 
 
 ## Fitur
 - Melihat daftar tugas
@@ -13,9 +13,6 @@ Kuis praktikum: aplikasi To-Do List dengan React.js (Vite). Hanya bagian fronten
 - Mengubah tugas yang sudah ada
 - Menghapus tugas (ada konfirmasi dulu)
 - Notifikasi setelah tambah, ubah, dan hapus
-
-## Data Tugas
-{ id, title, description, priority, deadline, status }
 
 
 ## Cara Menjalankan
